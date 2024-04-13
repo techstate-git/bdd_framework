@@ -7,7 +7,6 @@ import cucumber.api.java.en.When;
 public class CreateTokenSteps {
     @Given("User have {string},{string}")
     public void user_have(String string, String string2) {
-        // Write code here that turns the phrase above into concrete actions
 
     }
 

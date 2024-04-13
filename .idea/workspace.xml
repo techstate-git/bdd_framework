@@ -5,24 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="947846cd-f2f1-403b-b3d8-97c24ea5fb54" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Features/CreateTokenForBookingAPI.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/CreateTokenSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utils/POJOS/CreateToken.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DriverExeFiles/chromedriver-win64/LICENSE.chromedriver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DriverExeFiles/chromedriver-win64/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/DriverExeFiles/chromedriver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DriverExeFiles/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Features/Login1.feature" beforeDir="false" afterPath="$PROJECT_DIR$/Features/Login1.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/AddcustomerPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/AddcustomerPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/Stepdef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/Stepdef.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utils/DetailHooks/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/DetailHooks/Hooks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utils/DriverHelpers/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/DriverHelpers/DriverFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Features/CreateTokenForBookingAPI.feature" beforeDir="false" afterPath="$PROJECT_DIR$/Features/CreateTokenForBookingAPI.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
