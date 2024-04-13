@@ -31,9 +31,8 @@ public class Hooks extends BaseClass {
             DriverFactory.takeScreenshot(driver, scenario.getName());
             driver.quit();
         }
-
-        // Quit the browser
         if (driver != null) {
+            driver.close();
             driver.quit();
         }
     }

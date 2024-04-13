@@ -23,6 +23,6 @@ Scenario Outline: Login Data Driven
 	And close browser 
 	
 	Examples: 
-		| email | password |
+		| email                | password |
 		| admin@yourstore.com	|	admin |
-		| admin1@yourstore.com | admin123	|
+		| admin@yourstore.com  | admin	|

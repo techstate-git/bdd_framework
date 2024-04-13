@@ -31,8 +31,6 @@ public class AddcustomerPage {
 	By lstitemRegistered=By.xpath("//li[contains(text(),'Registered')]");
 	By lstitemGuests=By.xpath("//li[contains(text(),'Guests')]");
 	By lstitemVendors=By.xpath("//li[contains(text(),'Vendors')]");
-	
-	
 	By drpmgrOfVendor=By.xpath("//*[@id='VendorId']");
 	By rdMaleGender=By.id("Gender_Male");
 	By rdFeMaleGender=By.id("Gender_Female");

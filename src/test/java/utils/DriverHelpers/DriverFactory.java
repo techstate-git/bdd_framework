@@ -22,7 +22,7 @@ public  class DriverFactory extends BaseClass {
 
         configProp = new Properties();
 
-        FileInputStream configPropfile = new FileInputStream("config.properties");
+        FileInputStream configPropfile = new FileInputStream("src/test/resources/config.properties");
         configProp.load(configPropfile);
 
         String br = configProp.getProperty("browser");// default to chrome

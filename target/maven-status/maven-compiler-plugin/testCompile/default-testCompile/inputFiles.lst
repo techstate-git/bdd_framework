@@ -1,0 +1,17 @@
+/Users/amisiralieva/Desktop/techstate_fr/full_stack_bdd_framework/src/test/java/utils/POJOS/CustomerPojo.java
+/Users/amisiralieva/Desktop/techstate_fr/full_stack_bdd_framework/src/test/java/pages/AddcustomerPage.java
+/Users/amisiralieva/Desktop/techstate_fr/full_stack_bdd_framework/src/test/java/utils/APIHelper/RuntimeData.java
+/Users/amisiralieva/Desktop/techstate_fr/full_stack_bdd_framework/src/test/java/utils/DetailHooks/Hooks.java
+/Users/amisiralieva/Desktop/techstate_fr/full_stack_bdd_framework/src/test/java/testRunner/TestRunner.java
+/Users/amisiralieva/Desktop/techstate_fr/full_stack_bdd_framework/src/test/java/stepDefinitions/RussianDoll_1_Step.java
+/Users/amisiralieva/Desktop/techstate_fr/full_stack_bdd_framework/src/test/java/stepDefinitions/CreateTokenSteps.java
+/Users/amisiralieva/Desktop/techstate_fr/full_stack_bdd_framework/src/test/java/utils/APIHelper/PropertyFileReader.java
+/Users/amisiralieva/Desktop/techstate_fr/full_stack_bdd_framework/src/test/java/utils/DriverHelpers/DriverFactory.java
+/Users/amisiralieva/Desktop/techstate_fr/full_stack_bdd_framework/src/test/java/stepDefinitions/Stepdef.java
+/Users/amisiralieva/Desktop/techstate_fr/full_stack_bdd_framework/src/test/java/pages/BaseClass.java
+/Users/amisiralieva/Desktop/techstate_fr/full_stack_bdd_framework/src/test/java/stepDefinitions/CreateCustomerAPISteps.java
+/Users/amisiralieva/Desktop/techstate_fr/full_stack_bdd_framework/src/test/java/utils/POJOS/CreateToken.java
+/Users/amisiralieva/Desktop/techstate_fr/full_stack_bdd_framework/src/test/java/pages/SearchCustomerPage.java
+/Users/amisiralieva/Desktop/techstate_fr/full_stack_bdd_framework/src/test/java/utils/APIHelper/ApiIntegrationUtil.java
+/Users/amisiralieva/Desktop/techstate_fr/full_stack_bdd_framework/src/test/java/pages/LoginPage.java
+/Users/amisiralieva/Desktop/techstate_fr/full_stack_bdd_framework/src/test/java/utils/APIHelper/ResponseHelper.java

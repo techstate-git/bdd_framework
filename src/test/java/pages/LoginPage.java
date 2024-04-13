@@ -18,7 +18,7 @@ public class LoginPage extends BaseClass{
 	@CacheLookup
 	WebElement txtPassword;
 
-	@FindBy(xpath = "//input[@value='Log in']")
+	@FindBy(xpath = "//button[.='Log in']")
 	@CacheLookup
 	WebElement btnLogin;
 
